@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "force_update": true,
-  "apk_name": "smart_billing_v1.0.1.apk",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "apk_name": "smart_billing_v1.0.0.apk",
   "sha256": "c7870eee2789e78e41ecbbe6cbea98b0a07d5035406f4e5ca764d486f0657af7",
   "app_blocked": false,
   "block_message": "Payment reminder\nPlease contact ASTECHIT\nastech1811@gmail.com"
