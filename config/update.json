@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.2",
-  "force_update": false,
+  "force_update": true,
   "apk_name": "smart_billing_v1.0.2.apk",
   "sha256": "78406b97863a721cb62a337be46a237f32b78ca2cfbb90699dbd2a845a38ef66",
   "app_blocked": false,
