@@ -1,8 +1,8 @@
 {
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.3",
     "force_update": true,
-    "apk_name": "smart_billing_v1.0.2.apk",
+    "apk_name": "smart_billing_v1.0.3.apk",
     "sha256": "197d228b960481896d7cb9ed402e2493cf0aa2cac32f724acfd3406398598b1f",
     "app_blocked": false,
-    "block_message": "Dear Flodine Cruise,\n\nYour payment of ₹15,000 INR for Smart Billing App is overdue by 15 days. Kindly clear the amount at the earliest.\n\nYour Lifetime Package includes:\n✅ 24/7 Support\n✅ Free Feature Additions\n✅ No Renewal Charges\n✅ One Time Payment of ₹15,000 For Lifetime Use\n\nContact: astech1811@gmail.com\n\n- ASTECHIT PVT LTD"
+    "block_message": "Dear Flodine Cruise,\n\nYour payment of ₹15,000 INR for Smart Billing App is overdue by 17 days. Kindly clear the amount at the earliest.\n\nYour Lifetime Package includes:\n✅ 24/7 Support\n✅ Free Feature Additions\n✅ No Renewal Charges\n✅ One Time Payment of ₹15,000 For Lifetime Use\n\nContact: astech1811@gmail.com\n\n- ASTECHIT PVT LTD"
 }
